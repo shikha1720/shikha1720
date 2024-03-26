@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shikha Jain</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
+- Currently, I am working in an MNC with total 1.1 years of overall experience.
+- I’m currently learning Web Development.
+- Check my portfolio [https://shikha-jain-portfolio.netlify.app](https://shikha-jain-portfolio.netlify.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shikhaj1720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shikhaj1720" height="30" width="40" /></a>
